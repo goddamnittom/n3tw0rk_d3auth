@@ -11,8 +11,8 @@ This script is a simple tool for scanning a network to find devices and for send
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone <https://github.com/goddamnittom/n3tw0rk_d3auth>
+    cd <n3tw0rk_d3auth>
     ```
 
 2.  Install the dependencies:
